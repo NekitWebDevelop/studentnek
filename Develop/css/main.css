@@ -1,0 +1,45 @@
+body{
+	font-family: Arial;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+	width: 150px;
+	height: 60px;
+}
+
+h1{
+	color: red;
+}
+
+.new {
+	background: blue;
+	width: 100px;
+	color: white;
+	margin: 0 0 100px 0;
+}
+
+span{
+	color: red;
+}
+
+h2{
+	background: green;
+	color: white;
+}
+
+.text {
+	padding: 50px 0 50px 50px;
+}
+
+.form {
+	padding: 0 0 0 120px;
+}
+
+li{
+	border: 1px solid black;
+	font-size: 26px;
+}
